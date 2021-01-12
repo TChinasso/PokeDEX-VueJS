@@ -18,6 +18,7 @@ https://pokedexxxx.netlify.app/
   * Emissao de eventos entre componenetes
   * Filtros
   * Computed Properties
+  * Consumo de API RESTful com axios
   
 ### Bibliotecas utilizadas
 ```
@@ -27,4 +28,5 @@ https://pokedexxxx.netlify.app/
     "vue": "^2.6.11"
 ```
 
-
+### API Consumida
+  https://pokeapi.co/
